@@ -1,0 +1,248 @@
+body
+{
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-size: 0.7em;
+	margin: 0px;
+}
+a
+{
+	text-decoration: none;
+	color: #00bcd4;
+}
+h1
+{
+	background-color: white;
+	padding: 28px 10px 0px 0px;
+	margin: auto 90px;
+	font-size: 3.5em;
+	font-weight: 400;
+}
+h1 span
+{
+	color: #2b68a0;
+}
+h2
+{
+	display: block;
+	background: linear-gradient(#386da2,#5283ac,#386da2);
+	padding: 9px 20px;
+	margin: 0px;
+	font-size: 2em;
+	font-weight: 200;
+}
+h3
+{
+	margin-top: 15px;
+	margin-bottom: 0px;
+	font-size: 1.7em;
+	font-weight: 200;
+	letter-spacing: 0px;
+}
+h4
+{
+	font-size: 1.35em;
+	font-weight: 600;
+	margin: 4px auto;
+	color: #3e7dc1;
+}
+h5
+{
+	margin: 0px;
+	text-align: left;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+h5 span
+{
+	color: #dc4a4a;
+}
+div
+{
+	display: inline-block;
+	margin: 0px;
+}
+li
+{
+	margin: 4px;
+}
+.container
+{
+	display: block;
+	background: linear-gradient(#ffffff 74px,#dde3e3 75px,#ffffff 250px);
+	width: 750px;
+	margin: auto;
+}
+#globe
+{
+	width: 90px;
+	position: absolute;
+	z-index: 1;
+}
+.white
+{
+	color: white;
+}
+.sidebar
+{
+	padding: 20px 10px 0px 3px;
+	width: 160px;
+	text-align: center;
+	letter-spacing: -0.25px;
+}
+.sidebar p
+{
+	text-align: left;
+	font-weight: 800;
+}
+.sidebar hr
+{
+	margin: 20px 0px;
+}
+.sidebar p span
+{
+	color: #3e7dc1;
+}
+.sidebar a > div
+{
+	color: white;
+}
+.button
+{
+	display: block;
+	margin: 4px auto;
+	padding: 5px;
+	width: 90%;
+	font-size: 1.1em;
+	color: white;
+	text-align: center;
+	font-weight: 200;
+	letter-spacing: 0.25px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 1px 1px black;
+}
+.blue
+{
+	background: linear-gradient(#6198c3,#406b9d);
+}
+.orange
+{
+	background: linear-gradient(#ebad5c,#f07200);
+}
+.ad
+{
+	background-image: url(img/ad_background.png);
+	background-size: cover;
+	width: 160px;
+	text-align: center;
+	font-weight: 100;
+}
+.ad > .button
+{
+	width: 80%;
+	margin: 15px auto;
+}
+span > span
+{
+	color: #b5eaf3;
+}
+span > span > span
+{
+	color: #24c0db;
+}
+#ninja
+{
+	width: 70px;
+}
+.lightblue
+{
+	background: linear-gradient(#78d0e0,#00bad9);
+}
+.page
+{
+	width: 550px;
+	vertical-align: top;
+	padding: 5px 5px 0px 5px;
+}
+.page hr
+{
+	margin: 4px 0px 0px 0px;
+}
+.navtree
+{
+	width: 245px;
+	height: 40px;
+	text-align: left;
+	vertical-align: top;
+	font-weight: 500;
+	font-size: 1.2em;
+	padding: 3px 0px 0px 0px;
+}
+#home
+{
+	width: 15px;
+}
+.navtree a
+{
+	color: #2b68a0;
+}
+.contact
+{
+	width: 295px;
+	height: 40px;
+	text-align: right;
+	vertical-align: top;
+	font-size: 0.6em;
+}
+#phone
+{
+	display: inline-block;
+	width: 30px;
+}
+.phone
+{
+	text-align: right;
+	font-size: 2.9em;
+	font-weight: bold;
+	color: #19c4e0;
+}
+.contact p
+{
+	vertical-align: top;
+	margin: -0.3em;
+}
+.article
+{
+	vertical-align: top;
+}
+#reqres
+{
+	display: block;
+	width: 200px;
+	margin: auto;
+}
+.big3
+{
+	width: 100%;
+	vertical-align: top;
+	border: 3px solid #0084e0;
+	border-bottom: 0px;
+	margin: 5px 5px 0px 5px;
+	box-shadow: 1px 1px 2px 0.5px black;
+}
+#big3
+{
+	display: inline-block;
+	width: 100px;
+	margin: 10px;
+}
+.big3 div
+{
+	position: relative;
+	width: 425px;
+	top: -12px;
+}
+.big3 p
+{
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+}
